@@ -1,2 +1,1 @@
-# Probo
-The open-source security and compliance automation platform 
+[![Probo](banner.png)](https://www.getprobo.com)
