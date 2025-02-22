@@ -1,1 +1,1 @@
-[![Probo](banner.png?v=3)](https://www.getprobo.com)
+[![Probo](cover.png)](https://www.getprobo.com)
