@@ -68,8 +68,6 @@ prb evidence upload ./screenshot.png --internal-control <id>
 
 - [probo](https://github.com/getprobo/probo) — the platform: Go backend, React console, `prb` CLI, GraphQL and MCP APIs.
 - [awesome-compliance](https://github.com/getprobo/awesome-compliance) — a curated list of tools, frameworks, and resources for IT compliance.
-- [mcpgen](https://github.com/getprobo/mcpgen) — a `go generate`-based library for building MCP servers.
-- [scim](https://github.com/getprobo/scim) — a Go implementation of the SCIM v2 specification.
 - Audit roles for [AWS](https://github.com/getprobo/terraform-aws-audit-role), [GCP](https://github.com/getprobo/terraform-gcp-audit-role), and [Azure](https://github.com/getprobo/terraform-azurerm-audit-role) — Terraform modules that grant Probo read-only access for evidence collection.
 
 ## Community
